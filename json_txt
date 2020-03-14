@@ -1,38 +1,23 @@
 [
    {
-      "@lang": "eng",
       "title": "Frankenstein; or, The Modern Prometheus",
       "author": [
-         {
-            "first_name": "Mary",
-            "last_name": "Shelley"
-         },
-         {
-            "first_name": "Percy B.",
-            "last_name": "Shelley"
-         }
+         "Mary Shelley",
+         "Percy B. Shelley"
       ],
       "genre": "horror",
       "year_published": "1818"
    },
    {
-      "@lang": "frn",
       "title": "Les Misérables",
-      "author": {
-         "first_name": "Victor",
-         "last_name": "Hugo"
-      },
+      "author": "Victor Hugo",
       "genre": "historical fiction",
       "year_published": "1862"
    },
    {
-      "@lang": "eng",
       "title": "Player Piano",
-      "author": {
-         "first_name": "Kurt",
-         "last_name": "Vonnegut"
-      },
+      "author": "Kurt Vonnegut",
       "genre": "science fiction",
       "year_published": "1952"
    }
-]'
+]
