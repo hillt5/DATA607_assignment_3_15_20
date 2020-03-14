@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Books</h2>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Genre</th>
+    <th>Year Published</th>
+  </tr>
+  <tr>
+  <td>Frankenstein; or, The Modern Prometheus</td>
+    <td>Mary Shelley, <br>
+    Percy B. Shelley</td>   
+    <td>horror</td>
+    <td>1818</td>
+  </tr>
+  <tr>
+    <td>Les Misérables</td>
+    <td>Victor Hugo</td>
+    <td>historical fiction</td>
+    <td>1862</td>
+  </tr>
+  <tr>
+    <td>Player Piano</td>
+    <td>Kurt Vonnegut</td>
+    <td>science fiction</td>
+    <td>1952</td>
+  </tr>
+</table>
+
+</body>
+</html>
