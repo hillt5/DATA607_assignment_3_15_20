@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book lang = "eng">
+	  <title>Frankenstein; or, The Modern Prometheus</title>
+		<author>Mary Shelley</author>
+		<author>Percy B. Shelley</author>
+		<genre>horror</genre>
+		<year_published>1818</year_published>
+	</book>
+	<book lang = "frn">
+		<title>Les Misérables</title>
+		<author>Victor Hugo</author>
+		<genre>historical fiction</genre>
+		<year_published>1862</year_published>
+		</book>
+		<book lang = "eng">
+			<title>Player Piano</title>
+			<author>Kurt Vonnegut</author>
+			<genre>science fiction</genre>
+			<year_published>1952</year_published>
+			</book>
+		</books>
